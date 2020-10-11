@@ -1,0 +1,44 @@
+Major Different types of cyber attacks
+----------------------------------------
+-sony attack - 
+-Lutz group on 2011 goes to sony and hack their playstation networks  systems and they leak alot of information regarding credit cards.
+-Singapore attacks - 
+-Linkedin attack - 
+-ebay 
+-Home Depot or Ubisoft 
+-2015, target stores hack - At least 100 million of credit cards was leaked.
+-Cnn attack 
+-Dyn attack - using something called miria attack.
+-first attack using IoC to perform a DDoS attack 
+-2018 - we  have shadow brokers 
+      - EnternalBlue,
+      -Wannacry
+      -Emotet
+      -NSA leak 
+      -Attack 
+      -Asus attacks
+      -Cyber attack using SWIFT
+      -Swift is a bank protocol to transfer money.
+      
+      
+      Tools that attackers use 
+      ------------------------
+      -SeaDaddy and seaDuke - used by cyberbears to hack US election.
+                            - Those tools were used to generate backdoors into the committee of the part.
+      -BackEnergy - Used by the russian hackers
+                  - used to explore vulnerability on  SCADA or PLCs or ICs systems that are used on power plants or  water
+      -Shamoon, DUqu, flame, darkseoul and wannacry - Tools used for criminal and sponser hackers from government to exploit not only infrastructure, but also data and other  information from businesses
+      
+      
+      Security attacks definitions
+      ------------------------------
+      -Attack classifications 
+                 -passive attacks
+                 -active atacks
+     -Passive  attacks - eavedropping stle of attack
+                       - Not detected
+                       - traffic analysis - is the second class of passive attack.
+                       - Does not looks so much at the payload, but the frequency  and the size of the message.
+                       -Message are authenticates - the is a prove that the message is from a specific person.
+                       -message passes the  integrity check - no change the message format
+                       -Dangerous  from information.
