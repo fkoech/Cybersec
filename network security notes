@@ -1,0 +1,23 @@
+NMAP
+------
+->Network mapper
+->free open source utility for network discovery and security auditing
+->used for task such as:
+                      network inventory
+                      managing services upgrade shedules
+                      monitoring  host or serces uptime
+                      used raw ip packets to in novel was to determine what host are avaible on network.
+                      what service*application name and version)
+                      those hosts are offering
+                      what operaing systems(os version are they running)
+                      what type of  packet filters/firewalls are running
+                      run large networks
+                      work fine against single host
+                      port scanning mechanism(TCP and UDP)
+                      os detection
+                      version detection
+                      ping sweeps
+                      identtify active hosts on your network:
+                                     nmap -sp ipaddress/networkaddress(192.168.100.1/24)
+                      OS scanning 
+                                     nmap -O <target IP>
