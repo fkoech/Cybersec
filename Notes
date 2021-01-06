@@ -27,7 +27,8 @@ Major Different types of cyber attacks
                             - Those tools were used to generate backdoors into the committee of the part.
       -BackEnergy - Used by the russian hackers
                   - used to explore vulnerability on  SCADA or PLCs or ICs systems that are used on power plants or  water
-      -Shamoon, DUqu, flame, darkseoul and wannacry - Tools used for criminal and sponser hackers from government to exploit not only infrastructure, but also data and other  information from businesses
+      -Shamoon, DUqu, flame, darkseoul and wannacry - Tools used for criminal and sponser hackers from government to 
+        exploit not only infrastructure, but also data and other  information from businesses
       
       
       Security attacks definitions
@@ -35,10 +36,98 @@ Major Different types of cyber attacks
       -Attack classifications 
                  -passive attacks
                  -active atacks
-     -Passive  attacks - eavedropping stle of attack
+     -Passive  attacks - eavedropping style of attack
                        - Not detected
                        - traffic analysis - is the second class of passive attack.
                        - Does not looks so much at the payload, but the frequency  and the size of the message.
                        -Message are authenticates - the is a prove that the message is from a specific person.
-                       -message passes the  integrity check - no change the message format
+                       -message passes the  integrity check - no change the in message format
                        -Dangerous  from information.
+
+
+
+Security services
+-------------------------
+-Technical implementation of security policies.
+-Network security Essentials, application and standard  written by william Stallings
+-IT infrustructure 
+-Access controls
+-Security services that implement the security policies are implemented by the security mechanism.
+-Security mechanisms are the security enforcement point .
+-The security service enhancing the security of data processing systems and information trans
+fers of an organisations.
+-Puropose of security inftrusture is to provide defensive mechanisms against a security attack.
+-Security services are designed to enhance our ability to counter the security  that is presented against the enterprise.
+-Security service can engage and it's one to many relationship between a service and a
+security enforcement point.
+-provide authenticity through notorization or withnesses signature plus the non-repudiation
+part of that can be accomplished from notorization or licensing.
+-ITU(international Telecommunication union it is  the united nations governing body for standard worldwide 
+x.800
+-Ensures that adequate security of the systems or of data  transfers.
+-Authentication - is concerned with ensuring that a communication is authentic.
+                -It id the affirmation of identification.
+-Authorization - is approve.
+-Confidentiality - ensuring that the messages are received as  send  with no duplication, insertion, modifcation, reordering , replay or loss.
+
+
+Security mechanism 
+-----------------------------
+-Compination of hardware and software and processes that enhance IP security.
+-Principle of the security enforcement point.
+-This is the technical implementation of a security policy.
+-Security policy describes   how work is done.
+-Security  enforcement point or the security mechanism  are the  
+ technical implementation of that security policy.
+- some examples of those  are protocol suppression for example to turn off the fTP,the security policy would be
+ no FTPs allow, 
+ -No one authorized large-scale data movements.
+ -The security  enforcement  point would be to disable FTP,
+ -Aspect of identification, of access control identification, authenication, authorization.
+ -Security mechanism : 
+                     cryptography
+                     digital signature
+                     access control
+                     Data integrity
+                     Authentication exchange
+                     traffic padding 
+                     routing control
+                     notarization
+-Security policy is a technical policy that is derived from a logical business polocies.
+-Full chain is :
+               Business policies
+               security  policies
+               security  enforcemetn point/security mechanism.
+-Classes of users 
+                  Privilage users
+                  General users
+                  
+-Privilage users - somebody who can change your security  policy.
+-pervasive security mechanism  includes; 
+                                  -event detection - that is the core of  Qradar and security intelligence.
+                                 - Audit trail- ability to collect security intelligence data  and ensure that
+                                  security intelligence  data is available, is protected from unauthorized chain.
+                                             - important in the forensic  world
+-                                 -Trusted functionality
+                                  -security label 
+                                  -Security recovery
+                                  
+                                  
+
+
+Network security Model
+--------------------------
+-Objective is to understand  mechanically in terms of processes and in terms of logial decomposition
+-Encryption keys - allows the security  related transformation or encryption of the message.
+-Security architecture
+
+
+
+
+
+
+
+
+
+
+
