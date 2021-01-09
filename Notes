@@ -43,8 +43,18 @@ Major Different types of cyber attacks
                        -Message are authenticates - the is a prove that the message is from a specific person.
                        -message passes the  integrity check - no change the in message format
                        -Dangerous  from information.
-
-
+     -Active attack - involve some modification f the data stream  or the  creation of a false stor.
+                      that can be:
+                                 masquerade - is intuitive, masking of one end at the appearing as another.
+                                 replay
+                                 modification 
+                                 denial of service.
+                    -extremely dengerous.
+                    -used b man in the middle attack 
+                    -message are modified
+                    -Can be detected that the is something anomaly.
+                    -Deficult to prevent because  of the diversity of the style of attacks 
+                      that come though with that.
 
 Security services
 -------------------------
@@ -56,7 +66,7 @@ Security services
 -Security mechanisms are the security enforcement point .
 -The security service enhancing the security of data processing systems and information trans
 fers of an organisations.
--Puropose of security inftrusture is to provide defensive mechanisms against a security attack.
+-Purpose of security inftrusture is to provide defensive mechanisms against a security attack.
 -Security services are designed to enhance our ability to counter the security  that is presented against the enterprise.
 -Security service can engage and it's one to many relationship between a service and a
 security enforcement point.
@@ -80,7 +90,7 @@ Security mechanism
 -Security  enforcement point or the security mechanism  are the  
  technical implementation of that security policy.
 - some examples of those  are protocol suppression for example to turn off the fTP,the security policy would be
- no FTPs allow, 
+ no FTPs allowed  
  -No one authorized large-scale data movements.
  -The security  enforcement  point would be to disable FTP,
  -Aspect of identification, of access control identification, authenication, authorization.
@@ -97,7 +107,7 @@ Security mechanism
 -Full chain is :
                Business policies
                security  policies
-               security  enforcemetn point/security mechanism.
+               security  enforcement point/security mechanism.
 -Classes of users 
                   Privilage users
                   General users
@@ -120,12 +130,43 @@ Network security Model
 -Objective is to understand  mechanically in terms of processes and in terms of logial decomposition
 -Encryption keys - allows the security  related transformation or encryption of the message.
 -Security architecture
+-security - managing the vulnerability and their exposure   of the risk to both assets and resources.
+-Asset means something valuable  information maintained by an  an enterprise
+       also means security enforcement point  that technical implementation of a security policy 
+       that if it's disabled increases  the risk of the enterprise.
+-Vulnerability - weakness that can e exploited the violate a system or the information that it contains in the actual laxicon of a security profession
+               - it is underemployed exploit.
+-Exploit - is vulnerability thats put into play.
+-Threat - is a potential violation of security.
+-what need to be protected :
+                         customer credit card information
+                         health records 
+                         bank information
+                         security measures  such as the passwords.
+                         
+ -Security enforcment point are the technical implementation of security policies that are 
+ derived from business policy.
 
 
 
 
 
+     Organisation threats
+     ---------------------------
+ -Describe how the destruction corruption, modification, theft , removal , loss or disclosure of information or other resources 
+ and interruption of service can constitute threats to the security of data or systems.
+ -Denial of service - is predominant threat to large scale  information  processing enterprises.
+ -Destruction of information destruct our security enforcement points 
+ -modification - passive attack where the intruders listen and record the message and transition
+ into an active attack.
+ -Threat can be of two types - accidental threat without work of criminal intent
+                               intential threats with intention to violate a security policy.
 
+
+ 
+ attacks
+ ---------
+ -Action taken by a human with intent to violate security.whether it was sucessfully transformed  into an exploit.
 
 
 
