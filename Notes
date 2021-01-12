@@ -43,14 +43,14 @@ Major Different types of cyber attacks
                        -Message are authenticates - the is a prove that the message is from a specific person.
                        -message passes the  integrity check - no change the in message format
                        -Dangerous  from information.
-     -Active attack - involve some modification f the data stream  or the  creation of a false stor.
+     -Active attack - involve some modification of the data stream  or the  creation of a false stories.
                       that can be:
                                  masquerade - is intuitive, masking of one end at the appearing as another.
                                  replay
                                  modification 
                                  denial of service.
                     -extremely dengerous.
-                    -used b man in the middle attack 
+                    -used by man in the middle attack 
                     -message are modified
                     -Can be detected that the is something anomaly.
                     -Deficult to prevent because  of the diversity of the style of attacks 
@@ -166,7 +166,65 @@ Network security Model
  
  attacks
  ---------
- -Action taken by a human with intent to violate security.whether it was sucessfully transformed  into an exploit.
+ -Action taken by a human with intent to violate security.
+  whether it was sucessfully transformed  into an exploit.
+ -It doesnt matter if it  was successful but rather it has 
+   become a succesful exploit.
+ -Intermediaries between the human and the enterprise system.
+      protocols
+      proxies
+ -Disclosure attack is an attack where the intruder reveal 
+   the content of the message.
+ -Types of passive attack are:
+               traffic analysis - does not reveal the content.
+                                -ascertain rather content about the sender's actions.
+                                 based on the frequency and the size of the message.
+                                -during ascertain we can:
+                                              -identify problem with their data architecture.
+                                              -leaks
+                                              -storage problems
+                                              -who the sender is 
+                                              -who is the receiver
+                                              -the frequency, the size of them 
+                                              -temporal aspect
+-Masquerade - style of attack 
+            - impersonation of a known or authorized or a system interestingly about or a 
+              system 
+            -Leads to failure of authentication and identification
+ 
+
+
+
+Security architecture
+------------------------------
+-replay - is where copy of a legitimate messagee is captured and retransmitted later.
+         -involves interception and delay.
+         -at is an attack on intergrity because it is not send on timely manner .
+         -the connection message is lagitmate.
+ -Denial of service attacks - intruder  preventing the two communication parties from 
+                             communicating or accessing the communication channel.
+                             -it is availability attack because the is a timelineness factor.
+                             - Intruder is stopping all messages from reaching the destination.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
