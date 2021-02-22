@@ -209,7 +209,40 @@ Security architecture
                              -it is availability attack because the is a timelineness factor.
                              - Intruder is stopping all messages from reaching the destination.
 
-
+Course agenda 
+--------------------
+-Type of actors and their motives(internal users, government, hackers, hacktivist)
+         -Hacking organisations (guardian of angles, fancy pears,)
+         -Major different types of  cyber attacks(wancry attack, shamoon)
+-Architects perspective on attack classification
+         -security attack definition(passive/eavedrop  and active(masquerade, replay, modification and denial of service) attacks)
+         -security services 
+         -security mechanisms
+         -network security models 
+         -Organizational threats
+         -attacks 
+         -security architecture attacks
+         -security architecture attack models 
+-Malware  and introduction to theat protection
+        -malware and ransomware
+        -theats examples
+         -threat protection definition
+-Attacks
+         -internet security threats-mapping 
+         -internet security threats - packet sniffing 
+         -security threat ip spoofing 
+         -Security threats- denial of service 
+         -Security threat -host insertions 
+Cyber crime
+         -the cyber kill chain
+         Social enginering 
+         phishing and vishing 
+         cyberwarefare
+         
+ -Masquerade - masking of one end to apear as another
+ -replay - reading, acting  and sending unmodifies message later  with the correct timestamp.
+ -denial of service - message never geting through.
+ -
 
 
 
